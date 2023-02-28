@@ -960,7 +960,7 @@ section {
 }
 
 .menu .menu-content {
-  margin-left: 85px;
+  margin-left: 20px!important;
   overflow: hidden;
   display: flex;
   justify-content: space-between;
